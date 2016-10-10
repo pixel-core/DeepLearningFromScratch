@@ -3,6 +3,9 @@ DeepLearningFromScratch
 
 <img src="https://www.oreilly.co.jp/books/images/picture_large978-4-87311-758-4.jpeg" width="200">
 
+[
+ゼロから作るDeep Learning
+――Pythonで学ぶディープラーニングの理論と実装](https://www.oreilly.co.jp/books/9784873117584/)
 
 環境構築
 -------
