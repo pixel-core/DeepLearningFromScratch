@@ -17,12 +17,12 @@ print(x / 2) # [ 0.5  1.   1.5]
 
 print('1.5.4　NumPyのN次元配列')
 A = np.array(
-	[[1, 2],
-	[3, 4]]
+    [[1, 2],
+    [3, 4]]
 )
 B = np.array(
-	[[3, 0],
-	[0, 6]]
+    [[3, 0],
+    [0, 6]]
 )
 
 print(A)
@@ -74,7 +74,7 @@ print(X[0])    # [51 55]
 print(X[0][1]) # 55
 
 for row in X:
-	print(row)
+    print(row)
 '''
 [51 55]
 [14 19]

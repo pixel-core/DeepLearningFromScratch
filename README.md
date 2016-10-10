@@ -10,8 +10,8 @@ DeepLearningFromScratch
 
 ### 目次
 
- 1.[Python入門](contents/ch1)
- 1.[パーセプトロン](contents/ch2)
+ 1.[Python入門](contents/ch01)
+ 1.[パーセプトロン](contents/ch02)
 
 環境構築
 -------
