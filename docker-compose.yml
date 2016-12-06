@@ -1,0 +1,6 @@
+version: '2'
+services:
+  anaconda:
+    build:
+      context: .
+      dockerfile: Dockerfile
